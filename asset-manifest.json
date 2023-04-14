@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nine-grid-pattern/static/css/main.bcbe42c4.css",
+    "main.js": "/nine-grid-pattern/static/js/main.0ac52afe.js",
+    "static/js/787.28cb0dcd.chunk.js": "/nine-grid-pattern/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/nine-grid-pattern/index.html",
+    "main.bcbe42c4.css.map": "/nine-grid-pattern/static/css/main.bcbe42c4.css.map",
+    "main.0ac52afe.js.map": "/nine-grid-pattern/static/js/main.0ac52afe.js.map",
+    "787.28cb0dcd.chunk.js.map": "/nine-grid-pattern/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcbe42c4.css",
+    "static/js/main.0ac52afe.js"
+  ]
+}
