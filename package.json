@@ -22,6 +22,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start:both": "concurrently \"npm start\" \"cd server && node index.js\""
   },
   "eslintConfig": {
@@ -41,5 +43,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  },
+  "homepage": "https://laylama.github.io/nine-grid-pattern/"
 }
